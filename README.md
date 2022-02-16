@@ -8,7 +8,7 @@
 - [Campy](https://bit.ly/lrlc-camps)
 - [Dice](https://github.com/LakshLilhare-in/laksh-dice/tree/main)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/LakshLilhare-in/LakshLilhare-in/blob/master/devcard.svg" width="400" alt="Laksh Lilhare's Dev Card"/></a>
+<a href="https://app.daily.dev/laksh"><img src="https://github.com/LakshLilhare-in/LakshLilhare-in/blob/master/devcard.svg" width="400" alt="Laksh Lilhare's Dev Card"/></a>
 
 
 
