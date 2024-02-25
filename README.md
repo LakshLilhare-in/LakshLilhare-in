@@ -12,4 +12,4 @@
 - [Campy](https://bit.ly/lrlc-camps)
 - [Dice](https://github.com/LakshLilhare-in/laksh-dice/tree/main)
 
-<img src='https://raw.githubusercontent.com/LakshLilhare-in/LakshLilhare-in/fe413d5e712f3c165dd22e19e23d854a705a3697/devcard.svg'>
+
